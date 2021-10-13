@@ -1,0 +1,5 @@
+flask~=2.0.1
+flask-cors
+pymysql~=1.0.2
+pillow~=8.3.2
+openpyxl~=3.0.7
